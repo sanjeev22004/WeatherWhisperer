@@ -1,5 +1,5 @@
-FuryForecast
-FuryForecast is your ultimate destination for weather updates. We bring you real-time weather data and forecasts. 
+WeatherWhisperer
+WeatherWhisperer is your ultimate destination for weather updates. We bring you real-time weather data and forecasts. 
 
 
 Technologies Used
