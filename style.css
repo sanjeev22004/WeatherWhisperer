@@ -1,9 +1,14 @@
 * {
     padding: 0;
     margin: 0;
+<<<<<<< HEAD
     font-family: 'Arial', sans-serif; 
     box-sizing: border-box;
     transform: scale(0.95);
+=======
+    font-family: 'Arial', sans-serif; /* Changed font to Arial */
+    box-sizing: border-box;
+>>>>>>> db5c961d695bbd63265f94e049e6af9f770bc09f
 }
 
 body {
@@ -109,6 +114,7 @@ body {
 .weather_information {
     display: none;
 }
+<<<<<<< HEAD
 
 /* CSS for mobile devices */
 @media only screen and (max-width: 600px) {
@@ -173,3 +179,5 @@ body {
         font-size: 20px;
     }
 }
+=======
+>>>>>>> db5c961d695bbd63265f94e049e6af9f770bc09f
